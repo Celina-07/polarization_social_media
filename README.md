@@ -9,6 +9,8 @@ This repository is organized as follows:
 
 * **data**: contains minimal data allowing to replicate the results, for both debates.
 * **code**: contains scripts for the performed holistic analysis and temporal analysis.
+* **results**: is the directory where results are saved (.csv files)
+* **figures**: contains the notebook file allowing to construct the figures.
 
 # License
 
